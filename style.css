@@ -7,8 +7,8 @@ body
 /*------------Header CSS-----------*/
 #header
 {
-	height: 100vh;
-	background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(ef7fb1b37078b6a2aef8e40710446bfa.jpg);
+	height: 80vh;
+	background: linear-gradient(rgba(255,0,0,0.6),rgba(35,0,0,0.6)),url(ef7fb1b37078b6a2aef8e40710446bfa.jpg);
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
@@ -129,6 +129,7 @@ body
 	padding-top: 50px;
 	padding-bottom: 30px;
 	background: #f9f9f9;
+	
 }
 .resume h3
 {
