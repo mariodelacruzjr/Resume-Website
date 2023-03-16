@@ -7,7 +7,7 @@ body
 /*------------Header CSS-----------*/
 #header
 {
-	height: 80vh;
+	height: 40vh;
 	background: linear-gradient(rgba(255,0,0,0.6),rgba(35,0,0,0.6)),url(ef7fb1b37078b6a2aef8e40710446bfa.jpg);
 	background-position: center;
 	background-size: cover;
@@ -17,7 +17,7 @@ body
 
 .user-box
 {
-	top: 50%;
+	top: 25%;
 	left: 50%;
 	transform: translate(-50%,-50%);
 	position: absolute;
